@@ -1,0 +1,15 @@
+{
+    "age": 18,
+    "dog": {
+        "age": 2,
+        "child": null,
+        "color": "黑色",
+        "isVIP": true,
+        "name": "煤球"
+    },
+    "name": "sz",
+    "phone": {
+        "name": "is6",
+        "price": "888"
+    }
+}

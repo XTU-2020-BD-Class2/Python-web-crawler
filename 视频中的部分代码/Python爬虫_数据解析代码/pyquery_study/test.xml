@@ -1,0 +1,25 @@
+<person>
+    <name cls="test1">sz</name>
+    <age>18</age>
+    <pet>
+        <dog master="sz" type="大黄">
+            <name cls="test2">煤球</name>
+            <age>2</age>
+            <color>red</color>
+        </dog>
+
+        <dog master="jh sz" type="大黄">
+            <name cls="test3">python</name>
+            <age>1</age>
+            <color>yellow</color>
+        </dog>
+
+        <cat master="sz">
+            <age>3</age>
+            <name type="小名">皮皮</name>
+            <name2 type="小名2">皮皮2</name2>
+
+        </cat>
+    </pet>
+
+</person>

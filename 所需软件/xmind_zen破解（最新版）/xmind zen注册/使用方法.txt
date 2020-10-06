@@ -1,0 +1,3 @@
+替换软件目录resources\app.asar 文件即可
+
+软件目录在C盘下面Program Files里面，找到XMind ZEN，进行替换即可(注意：一定不要选择更新)

@@ -1,0 +1,22 @@
+<students xmlns:ns0="http://www.itlike.com/itlike">
+    
+    <ns0:student class="1班">
+        <id>001</id>
+        <name>小撩</name>
+        <age>18</age>
+        <address>上海</address>
+    </ns0:student>
+
+    <student class="2班">abc<id>002</id>
+        <name>小课</name>
+        <age>20</age>
+        <address>北京</address></student>
+
+    <student class="3班">
+        <id>003</id>
+        <name>小骚后</name>
+        <age>2</age>
+        <address>广州</address>
+    </student>
+
+</students>

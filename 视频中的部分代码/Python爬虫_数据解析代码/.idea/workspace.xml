@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79d127a1-a270-435a-ae5d-19fc1d13e3f8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python___code$ElementTree_test.coverage" NAME="ElementTree_test Coverage Results" MODIFIED="1557737072587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xml相关" />
+    <SUITE FILE_PATH="coverage/Python___code$PageEelement_test.coverage" NAME="PageEelement_test Coverage Results" MODIFIED="1558960048664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/html相关" />
+    <SUITE FILE_PATH="coverage/Python___code$xml.coverage" NAME="xml解析 Coverage Results" MODIFIED="1557711792821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xml相关" />
+    <SUITE FILE_PATH="coverage/Python___code$PageElement_test.coverage" NAME="PageElement_test Coverage Results" MODIFIED="1559031116499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/html相关" />
+    <SUITE FILE_PATH="coverage/Python___code$re_test.coverage" NAME="re_test Coverage Results" MODIFIED="1559549486370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re_study" />
+    <SUITE FILE_PATH="coverage/Python___code$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1559208962316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python___code$demo__2_.coverage" NAME="demo (2) Coverage Results" MODIFIED="1557642096609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo_file" />
+    <SUITE FILE_PATH="coverage/Python___code$douban_pil.coverage" NAME="douban_pil Coverage Results" MODIFIED="1557658351395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo_file" />
+    <SUITE FILE_PATH="coverage/Python___code$yhd_goods.coverage" NAME="yhd_goods Coverage Results" MODIFIED="1559180789943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/html相关/demo" />
+    <SUITE FILE_PATH="coverage/Python___code$.coverage" NAME="边界处理 Coverage Results" MODIFIED="1559644253683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re_study" />
+    <SUITE FILE_PATH="coverage/Python___code$Python__json.coverage" NAME="Python-数据解析-json Coverage Results" MODIFIED="1557324781569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python___code$demo.coverage" NAME="demo Coverage Results" MODIFIED="1557448228420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python___code$Tag_test.coverage" NAME="Tag_test Coverage Results" MODIFIED="1558512861092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/html相关" />
+    <SUITE FILE_PATH="coverage/Python___code$jsonpath_test.coverage" NAME="jsonpath_test Coverage Results" MODIFIED="1557482982249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python___code$douban_request.coverage" NAME="douban_request Coverage Results" MODIFIED="1557658887393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo_file" />
+    <SUITE FILE_PATH="coverage/Python___code$douban_vx.coverage" NAME="douban_vx Coverage Results" MODIFIED="1557627738776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo_file" />
+    <SUITE FILE_PATH="coverage/Python___code$jd_goods.coverage" NAME="jd_goods Coverage Results" MODIFIED="1559142828128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/html相关/demo" />
+    <SUITE FILE_PATH="coverage/Python___code$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1557476484139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python___code$main.coverage" NAME="main Coverage Results" MODIFIED="1560338544458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/html相关/demo" />
+    <SUITE FILE_PATH="coverage/Python___code$BeautifulSoup_test.coverage" NAME="BeautifulSoup_test Coverage Results" MODIFIED="1558433704866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/html相关" />
+    <SUITE FILE_PATH="coverage/Python___code$test.coverage" NAME="test Coverage Results" MODIFIED="1559545087368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re_study" />
+    <SUITE FILE_PATH="coverage/Python___code$xpath_test.coverage" NAME="xpath_test Coverage Results" MODIFIED="1559460221467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lxml_study" />
+    <SUITE FILE_PATH="coverage/Python___code$pyquery_test__1_.coverage" NAME="pyquery_test (1) Coverage Results" MODIFIED="1559469591946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery_study" />
+    <SUITE FILE_PATH="coverage/Python___code$xx.coverage" NAME="xx Coverage Results" MODIFIED="1557712857566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xml相关" />
+    <SUITE FILE_PATH="coverage/Python___code$Python__json_.coverage" NAME="Python-数据解析-json-反序列化 Coverage Results" MODIFIED="1557368140966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python___code$Element_test.coverage" NAME="Element_test Coverage Results" MODIFIED="1557824755114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xml相关" />
+    <SUITE FILE_PATH="coverage/Python___code$xmltodict_test.coverage" NAME="xmltodict_test Coverage Results" MODIFIED="1557970432750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xml相关" />
+    <SUITE FILE_PATH="coverage/Python___code$pyquery_test.coverage" NAME="pyquery_test Coverage Results" MODIFIED="1559441255847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python___code$_json.coverage" NAME="常见的数据格式-json Coverage Results" MODIFIED="1557283189555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python___code$Python__pickle.coverage" NAME="Python-数据解析-pickle Coverage Results" MODIFIED="1557374725705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python___code$Tag_.coverage" NAME="Tag_节点查找 Coverage Results" MODIFIED="1559460436593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/html相关" />
+    <SUITE FILE_PATH="coverage/Python___code$xml_test_ET.coverage" NAME="xml_test_ET Coverage Results" MODIFIED="1557730791412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xml相关" />
+    <SUITE FILE_PATH="coverage/Python___code$lxml_test.coverage" NAME="lxml_test Coverage Results" MODIFIED="1559212262980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lxml_study" />
+    <SUITE FILE_PATH="coverage/Python___code$bs4_test.coverage" NAME="bs4_test Coverage Results" MODIFIED="1558431382682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/html相关" />
+    <SUITE FILE_PATH="coverage/Python___code$book_generate.coverage" NAME="book_generate Coverage Results" MODIFIED="1558004783830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xml相关/xml_demo/课堂" />
+    <SUITE FILE_PATH="coverage/Python___code$re_.coverage" NAME="re_方法学习 Coverage Results" MODIFIED="1559707592499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re_study" />
+    <SUITE FILE_PATH="coverage/Python___code$bijia.coverage" NAME="bijia Coverage Results" MODIFIED="1558442677118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/html相关/demo" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1721865903">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="5" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Pipfile" value="2" />
+          <entry key="Python Console" value="43" />
+          <entry key="dummy" value="7" />
+          <entry key="html" value="1042" />
+          <entry key="json" value="1" />
+          <entry key="py" value="33757" />
+          <entry key="xml" value="664" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1042" />
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="33800" />
+          <entry key="TOML file" value="2" />
+          <entry key="XML" value="664" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Pipfile" value="5" />
+          <entry key="html" value="83" />
+          <entry key="jpg" value="54" />
+          <entry key="json" value="5" />
+          <entry key="lock" value="2" />
+          <entry key="png" value="5" />
+          <entry key="py" value="166" />
+          <entry key="pyi" value="1" />
+          <entry key="qss" value="1" />
+          <entry key="ttf" value="5" />
+          <entry key="xml" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="83" />
+          <entry key="Image" value="59" />
+          <entry key="JSON" value="5" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="166" />
+          <entry key="PythonStub" value="1" />
+          <entry key="TOML file" value="5" />
+          <entry key="XML" value="22" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/re_study/边界处理.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#11#21#0" expanded="true" />
+                <element signature="e#421#438#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/re_study/re_方法学习.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="542">
+              <caret line="50" column="37" lean-forward="true" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+              <folding>
+                <element signature="e#12#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>load</find>
+      <find>parent</find>
+      <find>sibling</find>
+      <find>next_element</find>
+      <find>self.next_element =</find>
+      <find>contents</find>
+      <find>text</find>
+      <find>clear</find>
+      <find>hidden</find>
+      <find>,</find>
+      <find>def parent</find>
+      <find>setup</find>
+      <find>setup(</find>
+      <find>mac</find>
+      <find>154</find>
+      <find>&gt;,</find>
+      <find>name</find>
+      <find>encoding</find>
+      <find>\d</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xml相关/ElementTree_test.py" />
+        <option value="$PROJECT_DIR$/xml相关/ele.xml" />
+        <option value="$PROJECT_DIR$/xml相关/Element_test.py" />
+        <option value="$PROJECT_DIR$/xml相关/xml_demo/book_category.html" />
+        <option value="$PROJECT_DIR$/xml相关/xml_demo/book_templete.html" />
+        <option value="$PROJECT_DIR$/xml相关/xml_demo/book_temp/100个幸福的理由.html" />
+        <option value="$PROJECT_DIR$/xml相关/xml_demo/book_temp/detail.html" />
+        <option value="$PROJECT_DIR$/xml相关/xml_demo/book_temp/index.html" />
+        <option value="$PROJECT_DIR$/xml相关/xml_demo/test.py" />
+        <option value="$PROJECT_DIR$/xml相关/xml_demo/book_temp/不能承受的生命之轻.html" />
+        <option value="$PROJECT_DIR$/xml相关/xml_demo/book_temp/丧钟为谁而鸣.html" />
+        <option value="$PROJECT_DIR$/xml相关/xml_demo/book_temp/mulu.html" />
+        <option value="$PROJECT_DIR$/xml相关/xml_demo/课堂/book_temp/book_detail_temp.html" />
+        <option value="$PROJECT_DIR$/xml相关/xml_demo/课堂/book_temp/mulu_temp.html" />
+        <option value="$PROJECT_DIR$/xml相关/xml_demo/课堂/book_generate.py" />
+        <option value="$PROJECT_DIR$/xml相关/test.xml" />
+        <option value="$PROJECT_DIR$/xml相关/xmltodict_test.py" />
+        <option value="$PROJECT_DIR$/html相关/bs4_test.py" />
+        <option value="$PROJECT_DIR$/html相关/BeautifulSoup_test.py" />
+        <option value="$PROJECT_DIR$/html相关/demo/bijia.py" />
+        <option value="$PROJECT_DIR$/html相关/Tag_test.py" />
+        <option value="$PROJECT_DIR$/html相关/douban.html" />
+        <option value="$PROJECT_DIR$/html相关/cssselector_test.html" />
+        <option value="$PROJECT_DIR$/html相关/cssselector_test.xml" />
+        <option value="$PROJECT_DIR$/html相关/PageEelement_test.py" />
+        <option value="$PROJECT_DIR$/html相关/PageElement_test.py" />
+        <option value="$PROJECT_DIR$/html相关/demo/yhd_goods.py" />
+        <option value="$PROJECT_DIR$/html相关/demo/jd_goods.py" />
+        <option value="$PROJECT_DIR$/lxml_study/test.py" />
+        <option value="$PROJECT_DIR$/Pipfile" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/lxml_study/lxml_test.py" />
+        <option value="$PROJECT_DIR$/lxml_study/test.xml" />
+        <option value="$PROJECT_DIR$/pyquery_test.py" />
+        <option value="$PROJECT_DIR$/lxml_study/伪元素.html" />
+        <option value="$PROJECT_DIR$/lxml_study/xpath_test.py" />
+        <option value="$PROJECT_DIR$/html相关/html_test.html" />
+        <option value="$PROJECT_DIR$/html相关/Tag_节点查找.py" />
+        <option value="$PROJECT_DIR$/pyquery_study/test.html" />
+        <option value="$PROJECT_DIR$/pyquery_study/test.xml" />
+        <option value="$PROJECT_DIR$/pyquery_study/pyquery_test.py" />
+        <option value="$PROJECT_DIR$/re_study/test.py" />
+        <option value="$PROJECT_DIR$/re_study/re_test.py" />
+        <option value="$PROJECT_DIR$/re_study/单字符匹配.py" />
+        <option value="$PROJECT_DIR$/re_study/量词.py" />
+        <option value="$PROJECT_DIR$/re_study/边界处理.py" />
+        <option value="$PROJECT_DIR$/re_study/分组.py" />
+        <option value="$PROJECT_DIR$/re_study/re_方法测试.py" />
+        <option value="$PROJECT_DIR$/re_study/re_方法学习.py" />
+        <option value="$PROJECT_DIR$/xml相关/xml_demo/课堂/book_generate_dir/index.html" />
+        <option value="$PROJECT_DIR$/html相关/demo/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="272" />
+    <option name="y" value="62" />
+    <option name="width" value="1285" />
+    <option name="height" value="939" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python-爬虫-数据解析-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-爬虫-数据解析-code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-爬虫-数据解析-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-爬虫-数据解析-code" type="462c0819:PsiDirectoryNode" />
+              <item name="re_study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-爬虫-数据解析-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-爬虫-数据解析-code" type="462c0819:PsiDirectoryNode" />
+              <item name="xml相关" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\50156\Desktop\Python-爬虫-数据解析-code\pyquery_study" />
+      <recent name="C:\Users\50156\Desktop\Python-爬虫-数据解析-code\html相关" />
+      <recent name="C:\Users\50156\Desktop\Python-爬虫-数据解析-code\xml相关" />
+      <recent name="C:\Users\50156\Desktop\Python-爬虫-数据解析-code\xml相关\xml_demo\课堂\book_temp" />
+      <recent name="C:\Users\50156\Desktop\Python-爬虫-数据解析-code\xml相关\xml_demo\课堂" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\50156\Desktop\Python-爬虫-数据解析-code\xml相关\xml_demo\备课" />
+      <recent name="C:\Users\50156\Desktop\Python-爬虫-数据解析-code\xml相关\xml_demo\book_temp" />
+      <recent name="C:\Users\50156\Desktop\Python-爬虫-数据解析-code\xml相关\xml_demo" />
+      <recent name="C:\Users\50156\Desktop\Python-爬虫-数据解析-code\xml相关" />
+      <recent name="C:\Users\50156\Desktop\Python-爬虫-数据解析-code\json相关" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="单字符匹配" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-爬虫-数据解析-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/re_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re_study/单字符匹配.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="量词" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-爬虫-数据解析-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/re_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re_study/量词.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="边界处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-爬虫-数据解析-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/re_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re_study/边界处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-爬虫-数据解析-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/html相关/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/html相关/demo/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="re_方法测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-爬虫-数据解析-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/re_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re_study/re_方法测试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="re_方法学习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-爬虫-数据解析-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/re_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re_study/re_方法学习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.单字符匹配" />
+      <item itemvalue="Python.re_方法测试" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.re_方法测试" />
+        <item itemvalue="Python.单字符匹配" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79d127a1-a270-435a-ae5d-19fc1d13e3f8" name="Default Changelist" comment="" />
+      <created>1557282758120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557282758120</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22922252" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.119944215" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32914925" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.49372384" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932975" weight="0.49372384" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49932975" weight="0.32914925" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/html相关/demo/bijia.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/Python-爬虫-数据解析-code-wjMgUt85/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html相关/douban.html" />
+    <entry file="file://$PROJECT_DIR$/html相关/itlike.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html相关/Tag_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html相关/PageEelement_test.py" />
+    <entry file="file://$PROJECT_DIR$/html相关/cssselector_test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/Python-爬虫-数据解析-code-wjMgUt85/Lib/site-packages/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="870" column="47" lean-forward="true" selection-start-line="870" selection-start-column="47" selection-end-line="870" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html相关/PageElement_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html相关/demo/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html相关/demo/yhd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html相关/demo/yhd_goods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html相关/demo/jd_goods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python37/Lib/xml/etree/ElementTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1571">
+          <caret line="123" column="6" selection-start-line="123" selection-start-column="6" selection-end-line="123" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1331436995/array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="125" column="8" selection-start-line="125" selection-start-column="8" selection-end-line="125" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1331436995/lxml/etree/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/lxml_study/test.py" />
+    <entry file="file://$PROJECT_DIR$/Pipfile.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/Python-爬虫-数据解析-code-wjMgUt85/Lib/site-packages/lxml/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/Python-爬虫-数据解析-code-wjMgUt85/Lib/site-packages/lxml/html/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2160" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lxml_study/new.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/Python-爬虫-数据解析-code-wjMgUt85/Lib/site-packages/pyquery/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1331436995/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="3616" column="6" selection-start-line="3616" selection-start-column="6" selection-end-line="3616" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyquery_test.py" />
+    <entry file="file://$PROJECT_DIR$/lxml_study/lxml_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lxml_study/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lxml_study/伪元素.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lxml_study/xpath_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html相关/BeautifulSoup_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html相关/bs4_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html相关/html_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html相关/Tag_节点查找.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyquery_study/test.html" />
+    <entry file="file://$USER_HOME$/.virtualenvs/Python-爬虫-数据解析-code-wjMgUt85/Lib/site-packages/pyquery/pyquery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="177" column="20" selection-start-line="177" selection-start-column="9" selection-end-line="177" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyquery_study/pyquery_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyquery_study/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re_study/test.py" />
+    <entry file="file://$PROJECT_DIR$/re_study/re_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re_study/单字符匹配.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re_study/量词.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="495" column="60" selection-start-line="495" selection-start-column="59" selection-end-line="495" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re_study/re_方法测试.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/Python-爬虫-数据解析-code-wjMgUt85/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-201">
+          <caret line="184" column="4" lean-forward="true" selection-start-line="184" selection-start-column="4" selection-end-line="184" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re_study/分组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="71" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html相关/demo/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml相关/xml_demo/课堂/book_generate_dir/京华烟云.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml相关/xml_demo/课堂/book_generate_dir/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2910">
+          <caret line="38" column="6" lean-forward="true" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re_study/边界处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#11#21#0" expanded="true" />
+            <element signature="e#421#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re_study/re_方法学习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="50" column="37" lean-forward="true" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+          <folding>
+            <element signature="e#12#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

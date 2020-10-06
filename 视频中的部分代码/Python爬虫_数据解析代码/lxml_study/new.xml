@@ -1,0 +1,9 @@
+<person>
+    <name>sz</name>
+    <age>18</age>
+    <dog>
+        <name>煤球</name>
+        <age>2</age>
+        <color>red</color>
+    </dog>
+</person>

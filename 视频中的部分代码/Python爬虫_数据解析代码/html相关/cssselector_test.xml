@@ -1,0 +1,22 @@
+<root>
+    <p>
+        <name>sz</name>
+        <age>18</age>
+        <addr>上海</addr>
+        <pet>
+
+            <dog>
+                <name>小骚猴</name>
+                <age>0.5</age>
+            </dog>
+            <cat>
+                <name>小花</name>
+                <age>3</age>
+            </cat>
+        </pet>
+    </p>
+    <p>
+        <name>小撩</name>
+        <age>20</age>
+    </p>
+</root>
